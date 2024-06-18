@@ -115,7 +115,7 @@ Type yes when prompted to confirm the destruction.
 
 **Irusha Malalgoda**
 
-- GitHub: [your-github-username](https://github.com/irushahm)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/ihasantha)
+- GitHub: [irushahm](https://github.com/irushahm)
+- LinkedIn: [ihasantha](https://www.linkedin.com/in/ihasantha)
 
 For any questions or feedback, feel free to reach out via the above platforms.
