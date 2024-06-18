@@ -1,6 +1,6 @@
 # Terraform AWS Infrastructure
 
-This Terraform configuration file sets up a basic AWS infrastructure with a VPC, subnet, internet gateway, route table, security group, and an EC2 instance.
+This Terraform configuration file sets up a basic dev VM in AWS infrastructure with a VPC, subnet, internet gateway, route table, security group, and an EC2 instance.
 
 ## Architecture Diagram
 
