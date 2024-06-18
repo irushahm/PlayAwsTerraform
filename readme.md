@@ -27,7 +27,7 @@ This Terraform configuration file sets up a basic AWS infrastructure with a VPC,
 3. **Prepare SSH Key Pair**:
     Ensure you have an SSH key pair available in `~/.ssh/mainkey.pub`. If not, create one using:
     ```sh
-    ssh-keygen -t rsa -b 2048 -f ~/.ssh/mainkey
+    ssh-keygen -t ed25519 -f ~/.ssh/mainkey
     ```
 
 ## Configuration
